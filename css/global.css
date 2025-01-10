@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --title-color: #d02424;
+    font-family: "Righteous", serif;
+    scroll-behavior: smooth;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
